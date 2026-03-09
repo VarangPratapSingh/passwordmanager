@@ -1,0 +1,14 @@
+#body {
+    background-color: #393E46;
+    height: 80vh;
+    width: 100vw;
+    top: 10vh;
+    left: 0px;
+    position: absolute;
+    color: #EEEEEE;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+    gap: 4vh;
+}

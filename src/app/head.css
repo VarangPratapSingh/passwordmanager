@@ -1,0 +1,13 @@
+#head {
+    background-color: #222831;
+    height: 10vh;
+    width: 100vw;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}

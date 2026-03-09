@@ -1,0 +1,32 @@
+#do{
+    width: 70vw;
+    height: 2000px;
+}
+
+#tite{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+#displayarea{
+    background-color: #222831;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+#displayarea th{
+    background-color: #00ADB5;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+#displayarea td{
+    padding: 12px;
+}
+
+#displayarea table{
+    width: 100%;
+    table-layout: auto;
+}
